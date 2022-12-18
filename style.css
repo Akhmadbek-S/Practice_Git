@@ -1,0 +1,12 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: rgb(110, 134, 232);
+}
+.header {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 90px;
+    color: #fff;
+}
